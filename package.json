@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "Discord Bot JavaScript",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "/tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FonixCommunity/Javascript-Discord_Bot.git"
+  },
+  "author": "https://github.com/FonixCommunity/Javascript-Discord_Bot/commits?author=FonixCommunity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FonixCommunity/Javascript-Discord_Bot/issues"
+  },
+  "homepage": "https://github.com/FonixCommunity/Javascript-Discord_Bot"
+}

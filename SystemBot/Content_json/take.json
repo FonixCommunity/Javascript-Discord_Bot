@@ -1,0 +1,9 @@
+{
+    "info": {
+    "tkn_" : "<Your Token Her>",
+        "gld_" : {
+            "srv_" : "<Server Id>",
+            "app_" : "<Application Id>"
+        }
+    }
+}
