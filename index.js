@@ -65,7 +65,8 @@ const rest = new REST({ version: '10' }).setToken(set.inf_runer);
  * REST is important for creating your application command 'slash'
  * The REST module in Discord.js facilitates communication with the 
  * Discord API by handling HTTP requests and responses, 
- * allowing developers to interact with Discord's services programmatically.
+ * allowing developers to interact with Discord's services 
+ * programmatically.
  * 
 **/
 
