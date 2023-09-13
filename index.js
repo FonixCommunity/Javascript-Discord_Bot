@@ -1,6 +1,6 @@
 // Importation I
 const { REST, Routes, Client, GatewayIntentBits, SlashCommandBuilder } = require('discord.js');
-const CommandType = require('./System/Class_Cmd'); // Remplacez le chemin
+const CommandType = require('./System/Class_Cmd'); 
 // Creat Your Discord Bot
 // -- Set Intents To Your Bot 'client'
 const client = new Client({
@@ -13,7 +13,7 @@ const client = new Client({
 });
 
 // Importation II
-const st = require('./System/Class_Info'); // Get Bot Indformation
+const st = require('./System/Class_Info'); // Get Bot Information
 const cm = require('./SystemBot/Content_js/cmd.js'); // Juste For Fun And Decoration For Console 
 
 
